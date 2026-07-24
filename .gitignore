@@ -1,6 +1,6 @@
 # KHÔNG BAO GIỜ commit API key
 .env
-
+.env.example
 # Tài liệu nội bộ của giảng viên — không phát cho học viên
 docs/
 
